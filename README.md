@@ -1,4 +1,4 @@
 # my-first-github-repositury
 Here is my first github respoitory
 
-README.md was just edited manually
+README.md was just edited manually. One more edit at Github
